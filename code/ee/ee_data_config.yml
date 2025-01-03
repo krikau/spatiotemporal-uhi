@@ -1,0 +1,21 @@
+# google drive folder
+folder_drive: "SpatioTemporal-UHI_25832"
+
+# Dates
+date_start:   '2011-1-1'
+date_median:  '2016-1-1'
+date_end:     '2021-1-1'
+
+EPSG_code: 25832
+
+# bounding box of the region of interest
+north: 50.67755843831869
+south: 49.56454580129461
+west: 7.771325522917981
+east: 9.503277390700418
+
+# buffer zone around roi
+buffer: 100000 # 100 km
+
+# administrative district
+distric_name: "Hessen"

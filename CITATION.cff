@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Krikau
+    given-names: Svea
+    orcid: https://orcid.org/0009-0000-5723-9627
+title: "Spatio-Temporal Analysis of Heat Extremes"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14592192
+date-released: 2025-01-03

@@ -1,0 +1,9 @@
+threshold_urban_areas: null
+threshold_elevation: 100
+threshold_pixels: 30
+buffer: 100
+path_urban_areas: '/mnt/mountpoint/wkdir/hesse-uhi/data/other/urban_areas_corine.tif'
+path_elevation: '/mnt/mountpoint/wkdir/hesse-uhi/data/other/dem.tif'
+path_aspect: '/mnt/mountpoint/wkdir/hesse-uhi/data/other/aspect.tif'
+path_LST: /mnt/mountpoint/wkdir/hesse-uhi/data/temperature/modis/aqua_night.tif
+path_roi: '/mnt/mountpoint/wkdir/hesse-uhi/data/other/roi_1000_buffer.tif'
