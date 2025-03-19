@@ -39,3 +39,6 @@ All datasets, except for the PET data, are openly and freely available. Therefor
 
 ### 3. [03_analysis.ipynb](./code/03_analysis.ipynb)
 - Creation of figures. 
+
+### 4. [04_extreme.ipynb](./code/04_extreme.ipynb)
+- heat extreme events such as heat waves and (very) hot days in relation to LST and Ta
